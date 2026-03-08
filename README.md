@@ -5,7 +5,7 @@ BTech Computer Science Student • Backend Developer in Progress • Problem Sol
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=IshaParihariya&label=Profile%20Views&color=f8a5c2&style=flat"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="600"/>
 </p>
 
 ---
