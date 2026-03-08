@@ -10,11 +10,6 @@ BTech Computer Science Student • Backend Developer in Progress • Problem Sol
 
 ---
 
-<p align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600"/>
-</p>
----
-
 ## 🚀 About Me
 
 🎓 BTech Computer Science student (2nd Year)
