@@ -5,24 +5,30 @@ BTech Computer Science Student • Backend Developer in Progress • Problem Sol
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=IshaParihariya&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=IshaParihariya&label=Profile%20Views&color=f8a5c2&style=flat"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 BTech Computer Science student (2nd Year)  
+🎓 BTech Computer Science student (2nd Year)
 
-💻 Passionate about **Backend Development** and understanding how systems work behind the scenes  
+💻 Passionate about **Backend Development** and understanding how systems work behind the scenes
 
-☕ Currently working with **Java, JDBC, Servlets, Hibernate, and Spring Boot**  
+☕ Currently working with **Java, JDBC, Servlets, Hibernate, and Spring Boot**
 
-🧠 Practicing **Data Structures & Algorithms**  
+🧠 Practicing **Data Structures & Algorithms**
 
-📚 I enjoy **learning by building real projects** rather than only studying theory  
+📚 I enjoy **learning by building real projects** rather than only studying theory
 
-🎤 I am also a **confident presenter with strong communication skills** and enjoy explaining technical ideas clearly  
+🎤 I am also a **confident presenter with strong communication skills**
 
 ---
 
@@ -30,7 +36,7 @@ BTech Computer Science Student • Backend Developer in Progress • Problem Sol
 
 📄 Presented a **research paper at an International Conference**
 
-**Topic:** Evolution of Artificial Intelligence Models  
+**Topic:** Evolution of Artificial Intelligence Models
 
 Focused on understanding how AI systems evolved from early rule-based approaches to modern deep learning models.
 
@@ -48,11 +54,11 @@ Helping coordinate student activities related to placements, professional develo
 
 • Learning backend development using **Java**
 
-• Building and learning **database-driven applications**
+• Building **database-driven applications**
 
 • Exploring **clean architecture and API design**
 
-• Practicing **problem solving through Data Structures & Algorithms**
+• Practicing **Data Structures & Algorithms**
 
 ---
 
@@ -86,7 +92,7 @@ Git • GitHub • IntelliJ IDEA • NetBeans • VS Code • Postman
 
 ### ❓ Quiz Application (Spring Boot)
 
-Backend REST API for a quiz system **built while learning Spring Boot and backend architecture.**
+Backend REST API for a quiz system **built while learning Spring Boot and backend architecture**
 
 **Features**
 
@@ -104,7 +110,7 @@ Spring Boot • JPA • MySQL • REST APIs
 
 Dynamic web application storing user data into MySQL.
 
-**Concepts**
+Concepts:
 
 • Servlets  
 • JDBC  
@@ -121,9 +127,9 @@ A classroom project demonstrating **Object-Oriented Programming in C++** integra
 
 ## 🎯 Goals for 2026
 
-• Strengthen **Data Structures & Algorithms skills**
+• Strengthen **Data Structures & Algorithms**
 
-• Become highly confident in **Java Backend Development** through continuous learning and building projects
+• Become highly confident in **Java Backend Development**
 
 • Build **more real-world backend projects**
 
@@ -138,31 +144,31 @@ A classroom project demonstrating **Object-Oriented Programming in C++** integra
 Spring Boot ecosystem  
 Hibernate ORM  
 REST API development  
-Data Structures & Algorithms  
+Data Structures & Algorithms
 
 ---
 
 ## 🌟 Interests
 
-💡 Exploring new technologies and developer tools  
+💡 Exploring new technologies and developer tools
 
-🧠 Curious about learning new things across different fields  
+🧠 Curious about learning new things across fields
 
-🎤 Public speaking and **technical / non-technical presentations**  
+🎤 Public speaking and **technical / non-technical presentations**
 
-👩‍💻 Supporting **women empowerment**  
+👩‍💻 Supporting **women empowerment**
 
-📖 Reading **fiction**  
+📖 Reading **fiction**
 
 ---
 
 ## 🎵 Beyond Tech
 
-🎤 Singing and experimenting with **rap/music**  
+🎤 Singing and experimenting with **rap/music**
 
-🎓 Participating in college activities  
+🎓 Participating in college activities
 
-📢 Enjoy presenting and explaining ideas clearly  
+📢 Enjoy presenting and explaining ideas clearly
 
 ---
 
@@ -170,11 +176,11 @@ Data Structures & Algorithms
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IshaParihariya&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=IshaParihariya&show_icons=true&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com/?user=IshaParihariya&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=IshaParihariya&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaParihariya&layout=compact&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaParihariya&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -185,15 +191,15 @@ Data Structures & Algorithms
 <p align="center">
 
 <a href="mailto:ishh1036@gmail.com">
-<img src="https://img.shields.io/badge/Email-ishh1036%40gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="32"/>
 </a>
 
 <a href="https://github.com/IshaParihariya">
-<img src="https://img.shields.io/badge/GitHub-IshaParihariya-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.icons8.com/material-rounded/48/github.png" width="32"/>
 </a>
 
 <a href="https://www.linkedin.com/in/isha-parihariya-b9382126b">
-<img src="https://img.shields.io/badge/LinkedIn-Isha%20Parihariya-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.icons8.com/color/48/linkedin.png" width="32"/>
 </a>
 
 </p>
@@ -201,5 +207,5 @@ Data Structures & Algorithms
 ---
 
 <p align="center">
-⭐ Always learning, building, and improving as a developer.
+🌸 Always learning, building, and improving as a developer.
 </p>
