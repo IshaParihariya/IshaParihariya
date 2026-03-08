@@ -11,11 +11,7 @@ BTech Computer Science Student • Backend Developer in Progress • Problem Sol
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f8c8dc&height=100&section=footer"/>
+<img src="https://media.giphy.com/media/Y1vohJMVMtjSQxmUot/giphy.gif" width="600"/>
 </p>
 
 ---
