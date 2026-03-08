@@ -5,9 +5,8 @@ BTech Computer Science Student • Backend Developer in Progress • Problem Sol
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="600"/>
 </p>
-
 ---
 
 ## 🚀 About Me
