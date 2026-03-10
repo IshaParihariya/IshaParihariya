@@ -1,6 +1,10 @@
 <h1 align="center">Hi there 👋 I'm Isha Parihariya</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IshaParihariya&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
+
+<p align="center">
 BTech Computer Science Student • Backend Developer in Progress • Problem Solver
 </p>
 
