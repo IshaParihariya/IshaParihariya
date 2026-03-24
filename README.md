@@ -102,7 +102,7 @@ Backend REST API system
 📧 ishh1036@gmail.com  
 
 <p align="center">
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/isha-parihariya-b9382126b">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
 </a>
 </p>
