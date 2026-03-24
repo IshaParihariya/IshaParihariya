@@ -12,6 +12,11 @@
 🎓 BTech CSE (2nd Year) • 💻 Backend Developer • 🚀 Java
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IshaParihariya&label=Profile%20Views&color=ff69b4&style=for-the-badge&initial=170" />
+</p>
+
 ---
 
 ## 🚀 About Me  
