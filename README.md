@@ -1,6 +1,10 @@
 <h2 align="center">Hi 👋 I'm Isha Parihariya</h2>
 
 <p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Backend+Developer+in+Progress;Java+%7C+Spring+Boot+%7C+Hibernate;DSA+Learner;Building+Real+Projects">
 </p>
 
@@ -95,7 +99,7 @@ Backend REST API system
 
 ## 📫 Connect With Me  
 
-📧 ishh1036@example.com  
+📧 ishh1036@gmail.com  
 
 <p align="center">
 <a href="YOUR_LINKEDIN">
