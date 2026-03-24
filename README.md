@@ -19,7 +19,8 @@ I prefer learning by building real-world projects and improving through practice
 - 🧠 Practicing Data Structures & Algorithms  
 - 🧩 Exploring backend architecture & system design  
 - 🎤 Strong communication & presentation skills  
-
+- 🎯 Volunteer — Training & Placement Cell
+  
 ---
 
 ## 📂 Featured Projects  
@@ -77,11 +78,17 @@ Backend REST API system
 
 ---
 
+## 🎵 Beyond Tech  
+
+- 🎤 Singing & exploring music  
+- 📖 Reading fiction  
 ## 📊 GitHub Analytics  
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IshaParihariya&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshaParihariya&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
