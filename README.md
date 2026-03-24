@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋 I'm Isha Parihariya</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="260"/>
+  <img src="[https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZ4cXBmZWZ6ODl5NHR3cXB3ZTgwNDQ2cGM5Y3NuaXoyYzFtOWQxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZSZTGUtpQr0u7cfveB/giphy.gif)" width="260"/>
 </p>
 
 <p align="center">
