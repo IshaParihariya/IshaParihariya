@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋 I'm Isha Parihariya</h2>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="260"/>
 </p>
 
 <p align="center">
