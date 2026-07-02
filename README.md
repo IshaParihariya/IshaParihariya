@@ -58,14 +58,14 @@ Readme · MD
 <table>
 <tr>
 <td width="50%">
-**💬 [InnerCircle – Social Chat Application](https://github.com/IshaParihariya/innercicle-project](https://github.com/IshaParihariya/innercicle-project)**
+**💬 [InnerCircle – Social Chat Application](https://github.com/IshaParihariya/innercicle-project)**
 <br/>
 Java · Servlets · Hibernate ORM · MySQL · Apache Tomcat
 - Full-featured social chat app with login/signup, real-time chat, and post-sharing
 - Backend built with Servlets + Hibernate, with MySQL for persistent data handling
 </td>
 <td width="50%">
-**🧩 [Quiz Application Backend – REST API](https://github.com/IshaParihariya/quizapp-springboot](https://github.com/IshaParihariya/quizapp-springboot)**
+**🧩 [Quiz Application Backend – REST API](https://github.com/IshaParihariya/quizapp-springboot)**
 <br/>
 Spring Boot · Spring Data JPA · MySQL
 - REST APIs to add and fetch quiz questions by category
@@ -74,7 +74,7 @@ Spring Boot · Spring Data JPA · MySQL
 </tr>
 <tr>
 <td width="50%">
-**🎵 [Spotify UI Clone](https://github.com/IshaParihariya/Spotify-Clone](https://github.com/IshaParihariya/Spotify-Clone)**
+**🎵 [Spotify UI Clone](https://github.com/IshaParihariya/Spotify-Clone)**
 <br/>
 HTML · CSS
 - Spotify-inspired responsive front-end built with Flexbox and Grid
