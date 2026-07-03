@@ -208,16 +208,6 @@ https://github.com/IshaParihariya/Spotify-Clone
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IshaParihariya&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
 # 💻 Coding Profiles
 
 ### LeetCode
