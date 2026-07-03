@@ -1,69 +1,191 @@
 <div align="center">
-# Hi, I'm Isha Parihariya 👋
- 
-### Java Backend Developer | BTech CSE Student | Open to Internships & Full-Time Roles
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isha-parihariya-b9382126b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishh1036@gmail.com)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge)
- 
+
+# Hi 👋, I'm Isha Parihariya
+
+### Java Backend Developer • Spring Boot • Hibernate • REST APIs
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Open+Source+Contributor;Always+Learning+and+Building" alt="Typing SVG"/>
+
+<p>
+<a href="https://www.linkedin.com/in/isha-parihariya-b9382126b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ishh1036@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/IshaParihariya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://github.com/IshaParihariya"><img src="https://img.shields.io/github/followers/IshaParihariya?style=for-the-badge"/></a>
+</p>
+
 </div>
-<br>
-## 🚀 About Me
- 
-- 🎓 BTech in Computer Science & Engineering, Arya College of Engineering (RTU) — **CGPA: 9.38**
-- 💻 Focused on **Java backend development** — Servlets, Hibernate ORM, JDBC, and Spring Boot
-- 🌱 Open Source Contributor @ **GSSoC 2026** (GirlScript Summer of Code)
-- 🛠️ Comfortable with MVC architecture, REST API design, and MySQL
-- 📌 Active **Training & Placement Coordinator**, Arya Group of Colleges
-- 🎯 Actively looking for **Java Developer internships / entry-level roles**
-- 💬 Ask me about Java, Spring Boot, Hibernate, or DSA
-<br>
-## 🧰 Tech Stack
- 
+
+---
+
+# 👩‍💻 About Me
+
+🎓 B.Tech in Computer Science & Engineering at **Arya College of Engineering (RTU)** (CGPA: **9.38**)
+
+💻 Passionate about **Java Backend Development** with a strong focus on writing clean, maintainable, and scalable applications.
+
+🌱 Currently learning and building with **Spring Boot, Spring Security, Hibernate, REST APIs, JDBC, and MySQL**.
+
+🚀 Open Source Contributor in **GSSoC 2026**.
+
+🧩 Interested in Backend Engineering, System Design, Databases, and Software Development.
+
+💡 Always learning by building projects, solving DSA problems, and contributing to open source.
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,html,css,vscode&perline=9"/>
+</p>
+
+### Languages
+
+* Java (Primary)
+* SQL
+* C++
+
+### Backend
+
+* Spring Boot
+* Spring Data JPA
+* Hibernate ORM
+* JDBC
+* Java Servlets
+* REST APIs
+
+### Database
+
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* IntelliJ IDEA
+* NetBeans
+* Postman
+
+### Computer Science
+
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* MVC Architecture
+* Database Design
+
+---
+
+# 🌱 Currently Learning
+
+* Spring Security
+* JWT Authentication
+* Advanced Spring Boot
+* Backend System Design
+* Clean Architecture
+* Microservices
+
+---
+
+# 📌 Featured Projects
+
+### 💬 InnerCircle — Social Chat Platform
+
+* Java Servlets
+* Hibernate ORM
+* MySQL
+* Apache Tomcat
+
+A social networking application featuring authentication, posting, chatting, and a clean MVC architecture.
+
+---
+
+### 📝 Quiz Application Backend
+
+* Spring Boot
+* Spring Data JPA
+* MySQL
+* REST APIs
+
+Backend application providing REST APIs to create, manage, and retrieve quiz questions using a layered architecture.
+
+---
+
+### 🎵 Spotify UI Clone
+
+* HTML
+* CSS
+
+A responsive Spotify-inspired frontend built using Flexbox and Grid.
+
+---
+
+### 📚 Java DSA Practice
+
+A growing collection of Java Data Structures & Algorithms solutions with notes and explanations.
+
+---
+
+# 🌍 Open Source
+
+* 🌟 GirlScript Summer of Code 2026 Contributor
+* ✅ Contributed to the Cucumber-JVM ecosystem
+* 🚀 Continuously improving through community contributions and collaborative development
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IshaParihariya&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaParihariya&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IshaParihariya&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshaParihariya&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 LeetCode
+
+I regularly practice **Data Structures & Algorithms in Java** to strengthen problem-solving skills and prepare for backend engineering interviews.
+
+🔗 **Profile:** https://leetcode.com/u/IshaParihariya/
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/isha-parihariya-b9382126b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ishh1036@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,mysql,spring,hibernate,git,github,idea,html,css&theme=dark" alt="Tech Stack" />
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building reliable backend solutions, one commit at a time."*
+
 </div>
-**Languages:** Java (primary) · C++ · SQL
-**Backend:** Spring Boot · Servlets · Hibernate ORM · JDBC · Spring Data JPA
-**Database:** MySQL
-**Web:** HTML5 · CSS3 · REST API design
-**Tools:** Git · GitHub · IntelliJ IDEA · NetBeans
-**CS Fundamentals:** OOP · Data Structures & Algorithms · MVC Architecture
- 
-<br>
-## 📌 Featured Projects
- 
-### 💬 [InnerCircle — Social Chat Application](https://github.com/IshaParihariya/innercicle-project)
-`Java` `Servlets` `Hibernate ORM` `MySQL` `Apache Tomcat`
-A social networking platform with login/signup, real-time chat, and post-sharing, built with Servlets + Hibernate for backend logic and data handling.
- 
-### 🧩 [Quiz Application Backend — REST API](https://github.com/IshaParihariya/quizapp-springboot)
-`Spring Boot` `Spring Data JPA` `MySQL`
-REST APIs to add and fetch quiz questions by category, built with a clean layered architecture using Spring Boot, JPA, and MySQL.
- 
-### 🎵 [Spotify UI Clone](https://github.com/IshaParihariya/Spotify-Clone)
-`HTML` `CSS`
-A Spotify-inspired responsive front-end built using Flexbox and Grid.
- 
-### 🔗 More coming soon
-Actively building and contributing through GSSoC 2026 — check back for new projects!
- 
-<br>
-## 📊 GitHub Stats
- 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IshaParihariya&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IshaParihariya&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaParihariya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-<br>
-## 🌐 Let's Connect
- 
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isha-parihariya-b9382126b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishh1036@gmail.com)
- 
-📩 **Open to Java Developer internship and full-time opportunities — feel free to reach out!**
- 
-</div>
+
