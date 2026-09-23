@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Isha Parihariya!<br><br>I'm a Computer Science student who likes understanding how things work  <br>behind the screen — especially when there's some Java, APIs, databases,  <br>or a completely broken piece of code involved. :)<br><br>I'm mainly into **Java and backend development**, but lately I've been  <br>exploring the frontend side too and learning **ReactJS** because I want to  <br>be able to build things end-to-end, not just make the backend work.<br><br>I enjoy building projects, playing around with new technologies and solving  <br>DSA problems sometimes lol.<br><br>I'm particularly interested in:<br>- ☕ Java & Backend Development<br>- ⚙️ Spring Boot & REST APIs<br>- 🗄️ Databases & System Design<br>- 🧩 DSA, OOP & Problem Solving<br>- 🤖 AI & how it can be used in real applications<br>- 🎨 UI experiments & making things look good<br>- 🌱 Open source & continuously learning<br>- 💳 FinTech & transaction systems<br><br>Outside of coding, I'm into **music, singing, and K-pop** 🎧  <br>(yes, BTS make their way into the playlist 😭).<br><br>Right now, I'm learning, building, breaking things, fixing them,  <br>and repeating the process.<br><br>**Still figuring things out. Still building. Still curious. 🚀**
+Hey, I'm Isha Parihariya!<br><br>I'm a Computer Science student who likes understanding how things work  <br>behind the screen especially when there's some Java, APIs, databases,  <br>or a completely broken piece of code involved. :)<br><br>I'm mainly into **Java and backend development**, but lately I've been  <br>exploring the frontend side too and learning **ReactJS** because I want to  <br>be able to build things end-to-end, not just make the backend work.<br><br>I enjoy building projects, playing around with new technologies and solving  <br>DSA problems sometimes lol.<br><br>I'm particularly interested in:<br>- ☕ Java & Backend Development<br>- ⚙️ Spring Boot & REST APIs<br>- 🗄️ Databases & System Design<br>- 🧩 DSA, OOP & Problem Solving<br>- 🤖 AI & how it can be used in real applications<br>- 🎨 UI experiments & making things look good<br>- 🌱 Open source & continuously learning<br>- 💳 FinTech & transaction systems<br><br>Outside of coding, I'm into **music, singing, and K-pop** 🎧  <br>(yes, BTS make their way into the playlist 😭).<br><br>Right now, I'm learning, building, breaking things, fixing them,  <br>and repeating the process.<br><br>**Still figuring things out. Still building. Still curious. 🚀**
 
 
 ## 🌐 Socials:
@@ -30,9 +30,7 @@ Hey, I'm Isha Parihariya!<br><br>I'm a Computer Science student who likes unders
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=IshaParihariya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=IshaParihariya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=IshaParihariya&theme=tokyonight&no-frame=true&no-bg=true&column=6)
 
----
-[![](https://komarev.com/ghpvc/?username=IshaParihariya&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=IshaParihariya&style=for-the-badge&color=58A6FF)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
