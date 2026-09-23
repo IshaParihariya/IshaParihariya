@@ -29,8 +29,6 @@ Hey, I'm Isha Parihariya!<br><br>I'm a Computer Science student who likes unders
 ![](https://streak-stats.demolab.com/?user=IshaParihariya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=IshaParihariya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=IshaParihariya&theme=tokyonight&no-frame=true&no-bg=true&column=6)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IshaParihariya&style=for-the-badge&color=58A6FF)
 
